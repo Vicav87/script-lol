@@ -41,4 +41,7 @@ No Firefox:
 5. Clique em "Salvar"
 
 ---
+# qualquer ideia minha vou add aqui
+
+todos os script sao para metodos educacionais
 
